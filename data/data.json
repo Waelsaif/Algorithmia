@@ -2,23 +2,27 @@
 	 {
       "title": "New chat",
       "type": "",
+      "response":"",
       "iconName": "plus",
       "id": 0
     },
 	 {
      "title": "What is Artificial Intelligence?",
+     "response":" Artificial Intelligence (AI) refers to computer systems or machines that are designed to perform tasks that typically require human intelligence. These tasks include things like learning, reasoning, problem-solving, understanding natural language, and perception. In simpler terms, AI allows machines to mimic certain aspects of human intelligence, enabling them to perform tasks or make decisions on their own. AI applications range from voice assistants and image recognition to complex systems that play games, drive cars, and even help diagnose medical conditions.",
      "type": "( Example )",
      "iconName": "bolt",
      "id": 1
    },
     {
       "title": "What is destructuring in java Script?",
+      "response":"Destructuring is a feature in JavaScript that allows you to extract values from arrays or properties from objects and assign them to variables in a more concise and readable way. It provides a shorthand syntax to simplify the process of extracting values.",
       "type": "( Example )",
       "iconName": "bolt",
       "id": 2
     },
     {
       "title": "Explain pandas library in python",
+      "response":"Pandas is a powerful Python library for data manipulation and analysis. It provides data structures like DataFrames for efficient handling of structured data, along with tools for cleaning, filtering, and analyzing datasets.",
       "type": "( Example )",
       "iconName": "bolt",
       "id": 3
