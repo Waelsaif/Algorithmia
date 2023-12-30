@@ -1,0 +1,26 @@
+[
+	 {
+      "title": "New chat",
+      "type": "",
+      "iconName": "plus",
+      "id": 0
+    },
+	 {
+     "title": "What is Artificial Intelligence?",
+     "type": "( Example )",
+     "iconName": "bolt",
+     "id": 1
+   },
+    {
+      "title": "What is destructuring in java Script?",
+      "type": "( Example )",
+      "iconName": "bolt",
+      "id": 2
+    },
+    {
+      "title": "Explain pandas library in python",
+      "type": "( Example )",
+      "iconName": "bolt",
+      "id": 3
+    }
+]
