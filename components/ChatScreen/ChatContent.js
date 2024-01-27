@@ -66,7 +66,7 @@ export default function ChatContent({ id, type }) {
 							<Image style={tw`w-8 h-8 rounded-full`} source={{ uri: "https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/mvdkzl7kvnmrzawrdihb" }} />
 							<Text style={tw`flex-row items-center`}>ALGORITHMIA</Text>
 						</View>
-						<View style={tw`w-fit p-3 rounded-xl border-b-[6px] border-l-[6px] border-t-2 border-r-2`} >
+						<View style={tw`p-3 rounded-xl border-b-[6px] border-l-[6px] border-t-2 border-r-2`} >
 							<Text style={tw`text-lg`}>
 								{inputChoice}
 							</Text>

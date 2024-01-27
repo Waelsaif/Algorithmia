@@ -32,7 +32,7 @@ const useStore = create((set) => ({
 				),
 			}));
 
-		const openaiApiKey = process.env.OPENAI_API_KEY;
+		const openaiApiKey = process.env.OPENAIAPI_KEY;
 		const requestData = {
 			model: 'gpt-3.5-turbo',
 			messages: [
